@@ -1,4 +1,6 @@
-## Hi there 👋
+## Привет, меня зовут Алексей 👋
+<a href="https://www.github.com/dima0409" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Reynem?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <!--
 **Reynem/Reynem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
