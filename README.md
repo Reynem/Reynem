@@ -9,6 +9,12 @@ src="https://img.shields.io/github/followers/Reynem?logo=github&style=for-the-ba
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
 </a>
 </p>
+
+### Моя статистика GitHub
+
+<a href="http://www.github.com/Reynem"><img src="https://github-readme-stats.vercel.app/api?username=dima0409&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dima0409's GitHub stats" /></a>
+
+<a href="https://github.com/Reynem" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dima0409&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <!--
 **Reynem/Reynem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
