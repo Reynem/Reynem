@@ -8,6 +8,12 @@ src="https://img.shields.io/github/followers/Reynem?logo=github&style=for-the-ba
 <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" />
 </a>
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c%23.svg" width="36" height="36" alt="Java" />
+</a>
+    <a href="https://www.jetbrains.com/opensource/kotlin/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/kotlin.svg" width="36" height="36" alt="Java" />
+</a>
 </p>
 
 ### Моя статистика GitHub
